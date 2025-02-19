@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab1_Bai1_DTB {
+public class Lab1_Bai1_DTB_test {
 	public static void main(String[] args){
 		
 		Scanner scanner = new Scanner(System.in);
